@@ -16,7 +16,7 @@ A: Renderize em outra página HTML em lista com as informações de produtos do 
 - *Desafio 03
 A: Para melhorar a experiência do usuário, crie uma nova página html agora chamada index.html adicione dois botões no cabeçalho, um para exibir em cards e outro para exibir em lista os produtos do arquivo produtos.json.
 <img src="deafio-3.png" alt="produtos">
-<img src="desafio3-mobile.png" alt="Produtos">
+<img src="mobile-desafio3.png" alt="Produtos">
 
 
 
